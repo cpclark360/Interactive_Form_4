@@ -2,7 +2,7 @@
 
 > Form retrieves user data using the following elements: input textfields, drop-down lists, checkboxes. The user is required to enter valid formated data in textfields with regular expressions. Also drop-down list and checkboxes are validated with javascript and JQuery.
 
-# Technology Used
+# Technologies Used
 
 - HTML
 - CSS
